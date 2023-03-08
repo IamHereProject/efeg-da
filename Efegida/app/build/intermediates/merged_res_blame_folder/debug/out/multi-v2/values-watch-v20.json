@@ -4,7 +4,11 @@
             "outputFile": "com.furkanozek.efegida.app-mergeDebugResources-27:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\fur_o\\.gradle\\caches\\transforms-3\\8dfa01e26e3a1ce0f11a38ffb7d7a3c4\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+=======
+                    "source": "C:\\Users\\Cankutay Dündar\\.gradle\\caches\\transforms-3\\901bd1e79ca3a5e2188025eed5ecc80d\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+>>>>>>> master
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

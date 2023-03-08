@@ -4,7 +4,21 @@
             "outputFile": "com.furkanozek.efegida.app-mergeDebugResources-27:/values-v16/values-v16.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\fur_o\\.gradle\\caches\\transforms-3\\8dfa01e26e3a1ce0f11a38ffb7d7a3c4\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+=======
+                    "source": "C:\\Users\\Cankutay Dündar\\.gradle\\caches\\transforms-3\\48da4d468f697fb0fb5d56e4c7c822b9\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cankutay Dündar\\.gradle\\caches\\transforms-3\\901bd1e79ca3a5e2188025eed5ecc80d\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+>>>>>>> master
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,6 +35,7 @@
                         "endColumns": "12",
                         "endOffsets": "289"
                     }
+<<<<<<< HEAD
                 },
                 {
                     "source": "C:\\Users\\fur_o\\.gradle\\caches\\transforms-3\\85625968673fb9fd8db34217596f6efd\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
@@ -31,6 +46,8 @@
                         "endColumns": "65",
                         "endOffsets": "116"
                     }
+=======
+>>>>>>> master
                 }
             ]
         }
