@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
     public void Fenerbahçe(){
         System.out.println("FB<3");
     }
+
+    public void bet(){
+        System.out.println("KG OYNA!");
+    }
 }
