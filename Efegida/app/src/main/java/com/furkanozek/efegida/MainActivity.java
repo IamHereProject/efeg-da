@@ -19,7 +19,10 @@ public class MainActivity extends AppCompatActivity {
     public void bet(){
         System.out.println("KG OYNA!");
     }
+
     public void fb(){
         System.out.println("valenciaaaaaaa");
     }
+
+
 }
